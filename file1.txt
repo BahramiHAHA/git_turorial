@@ -1,5 +1,4 @@
 hi. My first line.
 
-second line "abcdefgh".
 
 Third line "33333333".
