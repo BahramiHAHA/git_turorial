@@ -1,4 +1,4 @@
-fi2
+file2
 
 master line1 "11111111111"
 line1 "11111111"
